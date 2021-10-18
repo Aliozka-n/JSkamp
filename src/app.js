@@ -20,7 +20,7 @@ console.log(pi)
 //PascalCasing
 let konutKredileri = ["KonutKredisi", "Emlak Kredisi","Kamu Konut Kredisi"]
 
-console.log(konutKredileri)
+console.log(konutKredileri) 
 
 console.log("<ul>")
 for (let i =0; i<konutKredileri.length ;i++){
